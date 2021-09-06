@@ -1,8 +1,7 @@
 # Testes _end-to-end_ com Cypress
 
 
-Projeto com finalidade de desevolver e praticar criação de testes e2e para diferentes funcionalidades de uma aplicação web criada pela TBT, tais como:
-- Sign up, Login, CRUD, etc.
+Projeto com realizado para desevolver e praticar a criação de testes e2e criado pela Talking About Testing para diferentes funcionalidades de uma aplicação web como Sign up, Login e CRUD, e outros como:
 - Testar upload de arquivos
 - Interceptar requisições
 - Criar testes sem precisar codificar utilizando o Cypress Studio
